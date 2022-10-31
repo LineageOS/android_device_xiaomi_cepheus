@@ -34,6 +34,7 @@ $(call soong_config_set,xiaomi_msmnile,variant_lib,//$(LOCAL_PATH):libvariant_xi
 
 # Overlays
 PRODUCT_PACKAGES += \
+    ApertureOverlayDevice \
     FrameworkResOverlayDevice \
     LineageSDKOverlayDevice \
     LineageSystemUIOverlayDevice \
