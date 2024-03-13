@@ -28,6 +28,10 @@ PRODUCT_PACKAGES += \
     libmegface \
     libpiex_shim
 
+# Remove unwanted packages
+PRODUCT_PACKAGES += \
+    RemovePackages
+
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
