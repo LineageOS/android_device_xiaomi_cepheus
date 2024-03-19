@@ -51,6 +51,42 @@
       "parentUuid": "1e91d42f_cdc04841",
       "revId": "efc03d91d1ecbb7caba71197879f72ef5f3e470c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b12d983d_88e800f9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 33561
+      },
+      "writtenOn": "2024-03-19T18:39:23Z",
+      "side": 1,
+      "message": "\u003e just decommonize it instead?",
+      "parentUuid": "f0e0edd9_9745cf74",
+      "revId": "efc03d91d1ecbb7caba71197879f72ef5f3e470c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "48df7c8d_f9ae4835",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 33561
+      },
+      "writtenOn": "2024-03-19T18:39:23Z",
+      "side": 1,
+      "message": "\u003e It should be guarded\n\nOk. So I close this change and I\u0027ll make a new change in the sm8150-common.",
+      "parentUuid": "da5aab5e_08a4b36f",
+      "revId": "efc03d91d1ecbb7caba71197879f72ef5f3e470c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
