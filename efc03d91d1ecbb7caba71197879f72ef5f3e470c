@@ -16,6 +16,23 @@
       "message": "just decommonize it instead?",
       "revId": "efc03d91d1ecbb7caba71197879f72ef5f3e470c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1e91d42f_cdc04841",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 33561
+      },
+      "writtenOn": "2024-03-19T18:01:24Z",
+      "side": 1,
+      "message": "Yes, I can decommomize it on android_device_xiaomi_sm8150-common.However, what do we do with the devices that extend it?",
+      "revId": "efc03d91d1ecbb7caba71197879f72ef5f3e470c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
