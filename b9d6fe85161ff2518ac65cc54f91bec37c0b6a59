@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8cdb4384_ff43e0a9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34612
+      },
+      "writtenOn": "2025-06-09T12:55:14Z",
+      "side": 1,
+      "message": "Fixes broken UDFPS enrollment progress bar",
+      "revId": "b9d6fe85161ff2518ac65cc54f91bec37c0b6a59",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
