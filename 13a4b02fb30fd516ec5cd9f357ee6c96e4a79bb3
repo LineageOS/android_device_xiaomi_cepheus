@@ -24,6 +24,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "1e17594d_6bb2a13e",
+        "filename": "overlay-lineage/lineage-sdk/lineage/res/res/values/config.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 34612
+      },
+      "writtenOn": "2025-06-12T18:42:19Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "56bbb205_a8e85ba6",
+      "range": {
+        "startLine": 8,
+        "startChar": 0,
+        "endLine": 8,
+        "endChar": 1
+      },
+      "revId": "13a4b02fb30fd516ec5cd9f357ee6c96e4a79bb3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "a5fbc5fa_9318127c",
@@ -37,6 +61,30 @@
       "writtenOn": "2025-06-12T18:29:58Z",
       "side": 1,
       "message": "ditto",
+      "range": {
+        "startLine": 52,
+        "startChar": 0,
+        "endLine": 52,
+        "endChar": 1
+      },
+      "revId": "13a4b02fb30fd516ec5cd9f357ee6c96e4a79bb3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f3c979ff_0fa7f197",
+        "filename": "overlay-lineage/lineage-sdk/lineage/res/res/values/config.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 34612
+      },
+      "writtenOn": "2025-06-12T18:42:19Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a5fbc5fa_9318127c",
       "range": {
         "startLine": 52,
         "startChar": 0,
