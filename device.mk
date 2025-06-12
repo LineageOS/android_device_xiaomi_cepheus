@@ -29,9 +29,11 @@ PRODUCT_PACKAGES += \
     libpiex_shim
 
 # Overlays
-DEVICE_PACKAGE_OVERLAYS += \
-    $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-lineage
+PRODUCT_PACKAGES += \
+    FrameworkResOverlayDevice \
+    LineageSystemUIOverlayDevice \
+    SettingsOverlayDevice \
+    SystemUIOverlayDevice
 
 # Shipping API level
 PRODUCT_SHIPPING_API_LEVEL := 28
