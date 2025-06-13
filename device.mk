@@ -32,6 +32,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     FrameworkResOverlayDevice \
     LineageSystemUIOverlayDevice \
+    LineageSDKOverlayDevice \
     SettingsOverlayDevice \
     SystemUIOverlayDevice
 
