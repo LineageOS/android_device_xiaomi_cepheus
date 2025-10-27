@@ -4,12 +4,9 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-#include <libinit_dalvik_heap.h>
-#include <libinit_variant.h>
+#include <libvariant.h>
 
-#include "vendor_init.h"
-
-static const variant_info_t cepheus_info = {
+static const variant_info cepheus_info = {
     .hwc_value = "",
     .sku_value = "",
 
@@ -22,11 +19,6 @@ static const variant_info_t cepheus_info = {
     .nfc = true,
 };
 
-static const std::vector<variant_info_t> variants = {
+const std::vector<variant_info> variants = {
     cepheus_info,
 };
-
-void vendor_load_properties() {
-    set_dalvik_heap();
-    search_variant(variants);
-}

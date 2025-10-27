@@ -29,6 +29,9 @@ PRODUCT_PACKAGES += \
     libmegface \
     libpiex_shim
 
+# Init
+$(call soong_config_set,xiaomi_msmnile,variant_lib,//$(LOCAL_PATH):libvariant_xiaomi_cepheus)
+
 # Overlays
 PRODUCT_PACKAGES += \
     FrameworkResOverlayDevice \
