@@ -34,6 +34,24 @@
       "parentUuid": "3087e0ba_42cdb6bb",
       "revId": "cf1ed04964d92d65464e5b7f1245c0d804e22d57",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "58b1cb47_13d93d69",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2026-09-25T18:58:11Z",
+      "side": 1,
+      "message": "I\u0027ll try making a rounding mask adapting lmi one",
+      "parentUuid": "e249619f_791168c5",
+      "revId": "cf1ed04964d92d65464e5b7f1245c0d804e22d57",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
