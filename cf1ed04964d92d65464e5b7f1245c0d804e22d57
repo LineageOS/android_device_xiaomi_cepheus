@@ -16,6 +16,24 @@
       "message": "This doesn\u0027t add padding on the right side - I couldn\u0027t give a flying fuck about the fact that there is some padding already for the privacy indicator",
       "revId": "cf1ed04964d92d65464e5b7f1245c0d804e22d57",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e249619f_791168c5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34612
+      },
+      "writtenOn": "2026-09-25T18:37:43Z",
+      "side": 1,
+      "message": "Adding 30px to the end makes the right side look like shit.",
+      "parentUuid": "3087e0ba_42cdb6bb",
+      "revId": "cf1ed04964d92d65464e5b7f1245c0d804e22d57",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
